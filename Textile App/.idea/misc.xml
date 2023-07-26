@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/M_Textile/M_Textile/Textile_app/app/src/main/res/layout/activity_cart.xml" value="0.12360688956433637" />
+        <entry key="..\:/M_Textile/M_Textile/Textile_app/app/src/main/res/layout/activity_delivey.xml" value="0.152" />
+        <entry key="..\:/M_Textile/M_Textile/Textile_app/app/src/main/res/layout/show_order.xml" value="0.12360688956433637" />
+        <entry key="..\:/M_Textile/M_Textile/Textile_app/app/src/main/res/layout/show_payment_history.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_cart.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_delivey.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_grey_details.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_main.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_order_details.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_order_processing.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_payment.xml" value="0.264" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/activity_wholesalercetalogue.xml" value="0.2234375" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/headerfile.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/show_cart.xml" value="0.2234375" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/show_delivery.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/show_order.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/show_payment.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/show_payment_history.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/showgreydetails.xml" value="0.18697916666666667" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/showorderprocessing.xml" value="0.2234375" />
+        <entry key="..\:/Users/LENOVO/Downloads/M_Textile (1)/M_Textile/Textile_app/app/src/main/res/layout/showwholesalerdetails.xml" value="0.2234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
